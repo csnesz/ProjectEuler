@@ -1,4 +1,4 @@
-package problemSechs;
+package problem6;
 
 public class Projekt6 {
 
