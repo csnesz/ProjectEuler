@@ -17,7 +17,7 @@ public class Projekt3 {
 			if (l % i == 0) {
 				boolean isPrime = true;
 				
-					for (long j = 2; j < l; j++) {
+					for (long j = 2; j < i; j++) {
 						if (l % j == 0) {
 							isPrime = false;
 							break;
